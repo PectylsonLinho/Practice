@@ -1,3 +1,6 @@
+# Aprendendo trabalhar com a biblioteca pygame
+# Reproduzindo uma musica!
+
 import pygame
 
 pygame.mixer.init()

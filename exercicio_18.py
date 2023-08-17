@@ -1,3 +1,6 @@
+# Aprendendo a trabalhar com Módulos
+# Identidades trigonomêtricas
+
 from math import(sin, cos, tan, radians)
 display = '- Sin, Cos, Tan -'
 print('')

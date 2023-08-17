@@ -1,3 +1,6 @@
+# Estou aprendendo a manipular textos!
+# O primeiro exercício após a Aula - Analisador de Textos
+
 show = 'Analisando Texto'
 print('{:=^20}'.format(show))
 

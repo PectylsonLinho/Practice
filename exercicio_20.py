@@ -1,3 +1,6 @@
+# Biblioteca Random
+# Sorteando uma ordem de lista!
+
 import random
 
 a = str(input('Digite o nome do aluno_1: '))

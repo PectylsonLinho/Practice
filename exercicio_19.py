@@ -1,3 +1,6 @@
+# Biblioteca Random
+# Sorteando um item na Lista!
+
 display = ' -SORTEIO- '
 print('{:=^20}'.format(display))
 print()

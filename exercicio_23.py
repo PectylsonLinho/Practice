@@ -1,3 +1,5 @@
+# Separando Dígitos de um número!
+
 header = 'read a number, range(0- 9999)'
 print('{:=^40}'.format(header))
 

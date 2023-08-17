@@ -1,3 +1,6 @@
+# Operadores Aritméticos
+# COnversor de temperaturas - Cº/Fº
+
 celcius = float(input('Digite a temperatura em Celcius: '))
 fare = ((9 * celcius )/ 5) + 32
 

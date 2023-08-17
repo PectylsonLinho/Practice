@@ -1,3 +1,6 @@
+# Trabalhando com a biblioteca MAth
+# Triângulo rectângulo
+
 style = ' -Hipotenusa de um triângulo rectangulo- '
 print('{:=^100}'.format(style))
 
