@@ -16,9 +16,13 @@ while close == False:
     elif jump == 9:
         sure = str(input(""" 
                         Tens certeza que deseja terminar? 
-                        s-Sim & n-N
+                        s-Sim & n-Não
                         """))
         if sure == 's':
             close = True
             sleep(2)   
             print('Sessão Terminada!')
+        elif sure == 'n':
+            print('Continue...')
+        elif sure != 's' or 'n':
+            print('Esta opção ({}) não se encontra listada !!!'.format(sure))
