@@ -8,7 +8,7 @@ from time import sleep
 close = False
 
 while close == False:
-    jump = int(input('For Jump type 1-Up & 0-Down U 9-Cancel : '))
+    jump = int(input('For Jump or Down, type 1-Up & 0-Down U 9-Cancel : '))
     if jump == 1:
         print('Pulou...(^-^)')
     elif jump == 0:
