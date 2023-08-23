@@ -17,7 +17,7 @@ while close == False:
         sure = str(input(""" 
                         Tens certeza que deseja terminar? 
                         s-Sim & n-Não
-                        """))
+                        """)).lower()
         if sure == 's':
             close = True
             sleep(2)   
